@@ -3,10 +3,6 @@
   <img align="" src="https://github-readme-stats.vercel.app/api?username=helloworlde&show_icons=true&count_private=true" />
 </a>
 
------
-
-📊 **Weekly development breakdown**
-
 <!--START_SECTION:waka-->
 📊 **This week I spent my time on** 
 
