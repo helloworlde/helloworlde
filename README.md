@@ -1,5 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=helloworlde&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
-
-### Hi there 👋
-
-Just a passing by coder!
+<a href="https://github.com/helloworlde">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=helloworlde&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/helloworlde">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloworlde&hide=html,css" />
+</a>
