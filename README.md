@@ -3,22 +3,6 @@
   <img align="" src="https://github-readme-stats.vercel.app/api?username=helloworlde&show_icons=true&count_private=true" />
 </a>
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 426 Contributions in the Year 2020
- > 
-> 📦 0 Bytes Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 48 Public Repositories
- > 
-> 🔑 0 Private Repository 
- > 
-📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
