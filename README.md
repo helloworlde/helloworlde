@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=helloworlde" alt="helloworlde" /></a> </p>
 
-- 📝 I regularly write articles on [https://helloworlde.github.io/](https://helloworlde.github.io/)
+- 📝 I regularly write articles on [https://blog.hellowood.dev/](https://blog.hellowood.dev/)
 
 
 <h3 align="left">Languages and Tools:</h3>
