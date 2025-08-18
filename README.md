@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm helloworlde</h1>
 <h3 align="center">Just a Copy Paste Worker</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=helloworlde&label=Profile%20views&color=0e75b6&style=flat" alt="helloworlde" />
-</p>
-
 - 📝 I regularly write articles on [https://blog.hellowood.dev/](https://blog.hellowood.dev/)
+
+<hr>
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-12%2C530%20hrs%2017%20mins-blue)
@@ -59,6 +58,7 @@ Jinja                    1 repo              ░░░░░░░░░░░�
  Last Updated on 18/08/2025 08:27:54 UTC
 <!--END_SECTION:waka-->
 
+<hr>
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helloworlde&show_icons=true&locale=en" alt="helloworlde" />
 </p>
