@@ -7,7 +7,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%2C915%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C890%20hrs%201%20min-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-357%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -59,6 +61,28 @@ IntelliJ IDEA            22 mins             ░░░░░░░░░░░�
 Mac                      29 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 8 hrs 47 mins (29.64%)
+
+✍️ 210 lines written by AI, 88 lines written by hand (70.47% AI-written)
+
+🔤 65,547,243 Input Tokens, 329,336 Output Tokens
+
+💵 $315.67 Estimated AI Cost This Week
+
+🧠 31 AI Sessions, 195 AI Prompts
+
+GPT                      213 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 70.47% of written lines came from AI
+📚 Verbose Prompter — average 4,955 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 54.49% of changed lines were hand-edited
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -72,7 +96,7 @@ HCL                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 15:20:37 UTC
+ Last Updated on 27/07/2026 15:24:19 UTC
 <!--END_SECTION:waka-->
 
 <hr>
