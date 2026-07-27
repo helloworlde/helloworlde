@@ -7,7 +7,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%2C810%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%2C911%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -15,7 +15,7 @@
 
 > 📦 565.6 kB Used in GitHub's Storage 
  > 
-> 🏆 909 Contributions in the Year 2026
+> 🏆 912 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,13 +26,13 @@
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   722 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Monday                   725 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
 Tuesday                  762 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Wednesday                700 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Wednesday                700 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
 Thursday                 525 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Friday                   494 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Saturday                 983 commits         █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-Sunday                   1198 commits        ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
+Friday                   494 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Saturday                 983 commits         █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+Sunday                   1198 commits        ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
 ```
 
 
@@ -42,21 +42,21 @@ Sunday                   1198 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    19 hrs 27 mins      ██████████████░░░░░░░░░░░   54.82 % 
-Go                       6 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-sh                       4 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Text                     2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Markdown                 1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Other                    15 hrs 10 mins      █████████████░░░░░░░░░░░░   51.13 % 
+Go                       4 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+sh                       4 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Text                     3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Markdown                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 🔥 Editors: 
-Chrome                   19 hrs 47 mins      ██████████████░░░░░░░░░░░   55.77 % 
-GoLand                   9 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
-Zsh                      4 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-VS Code                  1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-IntelliJ IDEA            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Chrome                   12 hrs 10 mins      ██████████░░░░░░░░░░░░░░░   41.02 % 
+GoLand                   7 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   26.24 % 
+Zsh                      5 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+VS Code                  3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+IntelliJ IDEA            22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 💻 Operating System: 
-Mac                      35 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -72,7 +72,7 @@ HCL                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 00:00:01 UTC
+ Last Updated on 27/07/2026 05:51:40 UTC
 <!--END_SECTION:waka-->
 
 <hr>
