@@ -7,9 +7,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C899%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C902%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-364%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-365%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -44,45 +44,45 @@ Sunday                   1198 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    8 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   36.51 % 
-Go                       4 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-sh                       2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Text                     2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-JSON                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Go                       4 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+Other                    3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+sh                       2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Markdown                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Text                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 
 🔥 Editors: 
-GoLand                   7 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   31.81 % 
-VS Code                  5 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
-Chrome                   4 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-Zsh                      4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Cursor                   2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+GoLand                   7 hrs 8 mins        ███████████░░░░░░░░░░░░░░   43.62 % 
+VS Code                  3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+Zsh                      2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Cursor                   2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Chrome                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 
 💻 Operating System: 
-Mac                      24 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 41 mins (55.54%)
+⏱ AI Coding Time: 8 hrs 40 mins (53.03%)
 
-✍️ 669 lines written by AI, 141 lines written by hand (82.59% AI-written)
+✍️ 662 lines written by AI, 80 lines written by hand (89.22% AI-written)
 
-🔤 71,931,142 Input Tokens, 350,254 Output Tokens
+🔤 45,655,555 Input Tokens, 254,044 Output Tokens
 
-💵 $355.85 Estimated AI Cost This Week
+💵 $220.03 Estimated AI Cost This Week
 
-🧠 46 AI Sessions, 190 AI Prompts
+🧠 34 AI Sessions, 145 AI Prompts
 
-Grok                     613 lines           ██████████████████████░░░   87.95 % 
-GPT                      84 lines            ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Grok                     613 lines           ██████████████████████░░░   89.23 % 
+GPT                      74 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.59% of written lines came from AI
-📚 Verbose Prompter — average 3,983 characters per prompt
+🤖 AI-Driven — 89.22% of written lines came from AI
+📚 Verbose Prompter — average 3,521 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 40.38% of changed lines were hand-edited
+🚀 High AI Trust — 31.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -98,7 +98,7 @@ HCL                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 12:19:58 UTC
+ Last Updated on 03/08/2026 05:43:59 UTC
 <!--END_SECTION:waka-->
 
 <hr>
