@@ -25,16 +25,16 @@
  > 
 > 🔑 59 Private Repositories 
  > 
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Monday                   138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Tuesday                  116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Wednesday                186 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+Thursday                 129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Friday                   94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Saturday                 188 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Sunday                   325 commits         ███████░░░░░░░░░░░░░░░░░░   27.64 % 
 ```
 
 
@@ -87,14 +87,20 @@ Cursor                   482 lines           █░░░░░░░░░░�
 🚀 High AI Trust — 21.44% of changed lines were hand-edited
 ```
 
-```text
+**I Mostly Code in Go** 
 
+```text
+Go                       8 repos             ███████████░░░░░░░░░░░░░░   42.11 % 
+Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Swift                    3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+HCL                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 ```
 
 
 
 
- Last Updated on 25/08/2026 13:13:09 UTC
+ Last Updated on 25/08/2026 13:14:46 UTC
 <!--END_SECTION:waka-->
 
 <hr>
