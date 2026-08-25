@@ -28,13 +28,13 @@
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Tuesday                  116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Wednesday                186 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Thursday                 129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Friday                   94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-Saturday                 188 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Sunday                   325 commits         ███████░░░░░░░░░░░░░░░░░░   27.64 % 
+Monday                   726 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Tuesday                  763 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Wednesday                708 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Thursday                 529 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Friday                   503 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Saturday                 999 commits         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Sunday                   1217 commits        ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
 ```
 
 
@@ -90,17 +90,17 @@ Cursor                   482 lines           █░░░░░░░░░░�
 **I Mostly Code in Go** 
 
 ```text
-Go                       8 repos             ███████████░░░░░░░░░░░░░░   42.11 % 
-Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Swift                    3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-HCL                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Go                       32 repos            ████████░░░░░░░░░░░░░░░░░   31.68 % 
+JavaScript               15 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Python                   9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Swift                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+HCL                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
 
 
 
 
- Last Updated on 25/08/2026 13:14:46 UTC
+ Last Updated on 25/08/2026 13:18:45 UTC
 <!--END_SECTION:waka-->
 
 <hr>
