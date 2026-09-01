@@ -44,47 +44,47 @@ Sunday                   1217 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    15 hrs 12 mins      ███████████░░░░░░░░░░░░░░   42.36 % 
-Go                       8 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
-Rust                     2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-Markdown                 2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-sh                       1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Other                    14 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   36.28 % 
+Go                       10 hrs 42 mins      ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+Rust                     2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Markdown                 2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+JavaScript               2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
 
 🔥 Editors: 
-Chrome                   12 hrs 13 mins      █████████░░░░░░░░░░░░░░░░   34.06 % 
-GoLand                   9 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
-Codex Vscode             5 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Opencode Cli             3 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-Zsh                      2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+GoLand                   11 hrs 25 mins      ███████░░░░░░░░░░░░░░░░░░   29.22 % 
+Chrome                   11 hrs 21 mins      ███████░░░░░░░░░░░░░░░░░░   29.07 % 
+Codex Vscode             7 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+Opencode Cli             3 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Zsh                      2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
 
 💻 Operating System: 
-Mac                      35 hrs 54 mins      █████████████████████████   100.00 % 
+Mac                      39 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 45 mins (55.02%)
+⏱ AI Coding Time: 22 hrs 58 mins (58.81%)
 
-✍️ 9,408 lines written by AI, 506 lines written by hand (94.9% AI-written)
+✍️ 12,189 lines written by AI, 688 lines written by hand (94.66% AI-written)
 
-🔤 11,561,089 Input Tokens, 1,436,976 Output Tokens
+🔤 15,178,318 Input Tokens, 1,815,509 Output Tokens
 
-💵 $250.61 Estimated AI Cost This Week
+💵 $342.81 Estimated AI Cost This Week
 
-🧠 138 AI Sessions, 548 AI Prompts
+🧠 166 AI Sessions, 710 AI Prompts
 
-GPT                      7,926 lines         ███████████████████░░░░░░   74.75 % 
-Opus                     1,107 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Grok                     687 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Claude                   347 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-Composer                 256 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+GPT                      10,713 lines        ████████████████████░░░░░   80.01 % 
+Opus                     1,107 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Grok                     687 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Claude                   347 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Composer                 256 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.9% of written lines came from AI
-📚 Verbose Prompter — average 6,201 characters per prompt
+🤖 AI-Driven — 94.66% of written lines came from AI
+📚 Verbose Prompter — average 6,404 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 8.92% of changed lines were hand-edited
+🚀 High AI Trust — 8.73% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -100,7 +100,7 @@ HCL                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 16:07:23 UTC
+ Last Updated on 01/09/2026 16:11:20 UTC
 <!--END_SECTION:waka-->
 
 <hr>
