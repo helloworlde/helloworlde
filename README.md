@@ -15,7 +15,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 929.4 kB Used in GitHub's Storage 
+> 📦 929.5 kB Used in GitHub's Storage 
  > 
 > 🏆 1,013 Contributions in the Year 2026
  > 
@@ -25,16 +25,16 @@
  > 
 > 🔑 59 Private Repositories 
  > 
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Tuesday                  138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Wednesday                194 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Thursday                 144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Friday                   100 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-Saturday                 195 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Sunday                   353 commits         ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
@@ -44,63 +44,57 @@ Sunday                   353 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       13 hrs 16 mins      █████████░░░░░░░░░░░░░░░░   34.73 % 
-Other                    13 hrs 3 mins       █████████░░░░░░░░░░░░░░░░   34.14 % 
-JavaScript               2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Swift                    1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-Markdown                 1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Other                    13 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   34.79 % 
+Go                       11 hrs 37 mins      ████████░░░░░░░░░░░░░░░░░   30.70 % 
+JavaScript               2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Markdown                 1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Swift                    1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
 
 🔥 Editors: 
-GoLand                   11 hrs 39 mins      ████████░░░░░░░░░░░░░░░░░   30.50 % 
-Chrome                   10 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   28.16 % 
-Codex Vscode             8 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-Zsh                      3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-Opencode Cli             2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Chrome                   10 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+GoLand                   10 hrs 42 mins      ███████░░░░░░░░░░░░░░░░░░   28.25 % 
+Codex Vscode             9 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
+Zsh                      3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Opencode Cli             1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 💻 Operating System: 
-Mac                      38 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      37 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 11 mins (60.68%)
+⏱ AI Coding Time: 21 hrs 49 mins (57.6%)
 
-✍️ 11,699 lines written by AI, 481 lines written by hand (96.05% AI-written)
+✍️ 7,631 lines written by AI, 456 lines written by hand (94.36% AI-written)
 
-🔤 17,180,775 Input Tokens, 1,876,631 Output Tokens
+🔤 15,290,030 Input Tokens, 1,574,710 Output Tokens
 
-💵 $360.21 Estimated AI Cost This Week
+💵 $270.31 Estimated AI Cost This Week
 
-🧠 168 AI Sessions, 683 AI Prompts
+🧠 153 AI Sessions, 703 AI Prompts
 
-GPT                      11,129 lines        █████████████████████░░░░   84.44 % 
-Opus                     798 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-Grok                     643 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Claude                   330 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-Deepseek                 253 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+GPT                      8,246 lines         ███████████████████████░░   91.67 % 
+Claude                   361 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Grok                     220 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Opus                     141 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Codex-Vscode             27 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.05% of written lines came from AI
-📚 Verbose Prompter — average 7,939 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 65.13% of changed lines were hand-edited
+🤖 AI-Driven — 94.36% of written lines came from AI
+📚 Verbose Prompter — average 8,627 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 73.26% of changed lines were hand-edited
 ```
-
-**I Mostly Code in Go** 
 
 ```text
-Go                       32 repos            ████████░░░░░░░░░░░░░░░░░   31.37 % 
-JavaScript               15 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Python                   9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Swift                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-HCL                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+
 ```
 
 
 
 
- Last Updated on 04/09/2026 16:01:27 UTC
+ Last Updated on 04/09/2026 16:01:50 UTC
 <!--END_SECTION:waka-->
 
 <hr>
