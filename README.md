@@ -7,7 +7,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C009%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C009%20hrs%2031%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-442%20hrs%208%20mins-blue?style=flat)
 
@@ -15,9 +15,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 929.5 kB Used in GitHub's Storage 
+> 📦 986.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,013 Contributions in the Year 2026
+> 🏆 1,025 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -25,16 +25,16 @@
  > 
 > 🔑 59 Private Repositories 
  > 
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Monday                   730 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Tuesday                  768 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Wednesday                720 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Thursday                 536 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Friday                   512 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Saturday                 1007 commits        █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+Sunday                   1226 commits        ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
 ```
 
 
@@ -44,27 +44,27 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    13 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   34.79 % 
-Go                       11 hrs 37 mins      ████████░░░░░░░░░░░░░░░░░   30.70 % 
-JavaScript               2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Markdown                 1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Swift                    1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Other                    13 hrs 3 mins       █████████░░░░░░░░░░░░░░░░   35.00 % 
+Go                       11 hrs 9 mins       ███████░░░░░░░░░░░░░░░░░░   29.93 % 
+JavaScript               2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+Markdown                 1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Swift                    1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 
 🔥 Editors: 
-Chrome                   10 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   28.80 % 
-GoLand                   10 hrs 42 mins      ███████░░░░░░░░░░░░░░░░░░   28.25 % 
-Codex Vscode             9 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
-Zsh                      3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Opencode Cli             1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+GoLand                   10 hrs 42 mins      ███████░░░░░░░░░░░░░░░░░░   28.71 % 
+Chrome                   10 hrs 18 mins      ███████░░░░░░░░░░░░░░░░░░   27.64 % 
+Codex Vscode             9 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
+Zsh                      3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Opencode Cli             1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 💻 Operating System: 
-Mac                      37 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      37 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 49 mins (57.6%)
+⏱ AI Coding Time: 21 hrs 49 mins (58.53%)
 
 ✍️ 7,631 lines written by AI, 456 lines written by hand (94.36% AI-written)
 
@@ -87,14 +87,20 @@ Codex-Vscode             27 lines            ░░░░░░░░░░░�
 🔍 Hands-On Reviewer — 73.26% of changed lines were hand-edited
 ```
 
-```text
+**I Mostly Code in Go** 
 
+```text
+Go                       32 repos            ████████░░░░░░░░░░░░░░░░░   31.37 % 
+JavaScript               15 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Python                   9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Swift                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+HCL                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 
 
 
- Last Updated on 04/09/2026 23:59:35 UTC
+ Last Updated on 07/09/2026 07:08:53 UTC
 <!--END_SECTION:waka-->
 
 <hr>
