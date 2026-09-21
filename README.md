@@ -7,9 +7,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C030%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C040%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-456%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-469%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -44,47 +44,47 @@ Sunday                   1226 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    15 hrs 12 mins      ████████████░░░░░░░░░░░░░   49.05 % 
-Go                       5 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-Java                     2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-sh                       2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-Swift                    1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Other                    24 hrs 39 mins      ████████████████░░░░░░░░░   65.20 % 
+Go                       6 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Swift                    1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+sh                       1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Markdown                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 🔥 Editors: 
-Chrome                   12 hrs 6 mins       ██████████░░░░░░░░░░░░░░░   39.06 % 
-GoLand                   4 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Codex Vscode             4 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Zsh                      3 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-IntelliJ IDEA            3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Chrome                   16 hrs 51 mins      ███████████░░░░░░░░░░░░░░   44.58 % 
+Codex Vscode             6 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+GoLand                   5 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Zsh                      4 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Opencode Cli             2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
 
 💻 Operating System: 
-Mac                      30 hrs 59 mins      █████████████████████████   100.00 % 
+Mac                      37 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 24 mins (40.04%)
+⏱ AI Coding Time: 16 hrs 29 mins (43.62%)
 
-✍️ 1,946 lines written by AI, 1,281 lines written by hand (60.3% AI-written)
+✍️ 1,414 lines written by AI, 799 lines written by hand (63.9% AI-written)
 
-🔤 6,444,295 Input Tokens, 812,562 Output Tokens
+🔤 10,736,771 Input Tokens, 726,487 Output Tokens
 
-💵 $87.65 Estimated AI Cost This Week
+💵 $115.84 Estimated AI Cost This Week
 
-🧠 89 AI Sessions, 285 AI Prompts
+🧠 104 AI Sessions, 387 AI Prompts
 
-GPT                      1,488 lines         ███████████████░░░░░░░░░░   61.95 % 
-Grok                     578 lines           ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
-Claude                   336 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+GPT                      1,142 lines         ████████████████░░░░░░░░░   62.75 % 
+Claude                   678 lines           █████████░░░░░░░░░░░░░░░░   37.25 % 
 Dots                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 60.3% of written lines came from AI
-📚 Verbose Prompter — average 17,426 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 46.99% of changed lines were hand-edited
+⚖️ Balanced with AI — 63.9% of written lines came from AI
+📚 Verbose Prompter — average 9,758 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 50.21% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -100,7 +100,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 09:22:59 UTC
+ Last Updated on 21/09/2026 07:46:17 UTC
 <!--END_SECTION:waka-->
 
 <hr>
