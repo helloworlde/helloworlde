@@ -25,67 +25,6 @@
  > 
 > 🔑 59 Private Repositories 
  > 
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   738 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Tuesday                  776 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Wednesday                725 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Thursday                 537 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Friday                   512 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Saturday                 1009 commits        █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-Sunday                   1226 commits        ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    24 hrs 5 mins       ████████████████░░░░░░░░░   64.68 % 
-Go                       7 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-sh                       2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-JSON                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Markdown                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-
-🔥 Editors: 
-Chrome                   15 hrs 35 mins      ██████████░░░░░░░░░░░░░░░   41.85 % 
-GoLand                   7 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-Codex Vscode             5 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Zsh                      5 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Opencode Cli             2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-
-💻 Operating System: 
-Mac                      37 hrs 14 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 15 hrs 41 mins (42.13%)
-
-✍️ 1,111 lines written by AI, 1,017 lines written by hand (52.21% AI-written)
-
-🔤 7,568,215 Input Tokens, 613,984 Output Tokens
-
-💵 $85.37 Estimated AI Cost This Week
-
-🧠 81 AI Sessions, 321 AI Prompts
-
-Claude                   667 lines           ██████████████░░░░░░░░░░░   55.68 % 
-GPT                      531 lines           ███████████░░░░░░░░░░░░░░   44.32 % 
-Dots                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 52.21% of written lines came from AI
-📄 Detailed Prompter — average 1,140 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 64.97% of changed lines were hand-edited
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -99,7 +38,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 16:07:27 UTC
+ Last Updated on 23/09/2026 16:11:40 UTC
 <!--END_SECTION:waka-->
 
 <hr>
