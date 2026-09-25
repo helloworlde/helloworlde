@@ -87,14 +87,20 @@ Composer                 0 lines             ░░░░░░░░░░░�
 🚀 High AI Trust — 38.62% of changed lines were hand-edited
 ```
 
-```text
+**I Mostly Code in Go** 
 
+```text
+Go                       28 repos            ████████░░░░░░░░░░░░░░░░░   32.94 % 
+JavaScript               12 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Python                   10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 ```
 
 
 
 
- Last Updated on 25/09/2026 04:58:19 UTC
+ Last Updated on 25/09/2026 04:59:03 UTC
 <!--END_SECTION:waka-->
 
 <hr>
