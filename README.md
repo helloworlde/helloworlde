@@ -87,14 +87,20 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 🚀 High AI Trust — 6.79% of changed lines were hand-edited
 ```
 
-```text
+**I Mostly Code in Go** 
 
+```text
+Go                       28 repos            ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+JavaScript               15 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Python                   10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 ```
 
 
 
 
- Last Updated on 29/09/2026 00:19:18 UTC
+ Last Updated on 29/09/2026 00:20:05 UTC
 <!--END_SECTION:waka-->
 
 <hr>
