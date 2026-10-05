@@ -86,20 +86,14 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 🔍 Hands-On Reviewer — 64.15% of changed lines were hand-edited
 ```
 
-**I Mostly Code in Go** 
-
 ```text
-Go                       28 repos            ████████░░░░░░░░░░░░░░░░░   32.94 % 
-JavaScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Python                   10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Swift                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+
 ```
 
 
 
 
- Last Updated on 05/10/2026 12:29:26 UTC
+ Last Updated on 05/10/2026 12:29:48 UTC
 <!--END_SECTION:waka-->
 
 <hr>
