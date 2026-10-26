@@ -7,17 +7,17 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C084%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C095%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-508%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-517%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 1.3 MB Used in GitHub's Storage 
+> 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,361 Contributions in the Year 2026
+> 🏆 2,055 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -28,13 +28,13 @@
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   805 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Tuesday                  841 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Wednesday                790 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Thursday                 600 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Friday                   544 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-Saturday                 1048 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Sunday                   1294 commits        █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+Monday                   981 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Tuesday                  954 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Wednesday                981 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Thursday                 668 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Friday                   605 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Saturday                 1078 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Sunday                   1352 commits        █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
 ```
 
 
@@ -44,44 +44,46 @@ Sunday                   1294 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    17 hrs 46 mins      █████████████████░░░░░░░░   68.18 % 
-Go                       3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-sh                       1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Python                   1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Text                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Other                    14 hrs 7 mins       ████████████░░░░░░░░░░░░░   48.87 % 
+Go                       4 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+sh                       2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Markdown                 2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Python                   1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 
 🔥 Editors: 
-Chrome                   13 hrs 58 mins      █████████████░░░░░░░░░░░░   53.57 % 
-Codex Vscode             4 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-GoLand                   2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Cursor                   2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Zsh                      1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Chrome                   12 hrs 20 mins      ███████████░░░░░░░░░░░░░░   42.69 % 
+GoLand                   5 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+Zsh                      4 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Codex Vscode             1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Cursor                   1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 
 💻 Operating System: 
-Mac                      26 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      28 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 51 mins (30.11%)
+⏱ AI Coding Time: 10 hrs 32 mins (36.46%)
 
-✍️ 545 lines written by AI, 10,639 lines written by hand (4.87% AI-written)
+✍️ 4,139 lines written by AI, 10,600 lines written by hand (28.08% AI-written)
 
-🔤 2,288,640 Input Tokens, 213,762 Output Tokens
+🔤 4,588,473 Input Tokens, 563,906 Output Tokens
 
-💵 $11.55 Estimated AI Cost This Week
+💵 $64.16 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 113 AI Prompts
+🧠 37 AI Sessions, 127 AI Prompts
 
-GPT                      358 lines           ████████████████░░░░░░░░░   64.97 % 
-Grok                     193 lines           █████████░░░░░░░░░░░░░░░░   35.03 % 
+Opus                     3,388 lines         ████████████████████░░░░░   79.36 % 
+Grok                     611 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+GPT                      270 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Dots                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.87% of written lines came from AI
-📝 Concise Prompter — average 367 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 97.59% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 28.08% of written lines came from AI
+📄 Detailed Prompter — average 777 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 83.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -97,7 +99,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 23:59:43 UTC
+ Last Updated on 26/10/2026 07:33:53 UTC
 <!--END_SECTION:waka-->
 
 <hr>
