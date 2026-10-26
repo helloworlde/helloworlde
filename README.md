@@ -44,46 +44,46 @@ Sunday                   1352 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 hrs 7 mins       ████████████░░░░░░░░░░░░░   48.87 % 
-Go                       4 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-sh                       2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Markdown                 2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-Python                   1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Other                    12 hrs 19 mins      ███████████░░░░░░░░░░░░░░   45.40 % 
+Markdown                 3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+sh                       3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Go                       2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Python                   1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 
 🔥 Editors: 
-Chrome                   12 hrs 20 mins      ███████████░░░░░░░░░░░░░░   42.69 % 
-GoLand                   5 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-Zsh                      4 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Codex Vscode             1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-Cursor                   1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+Chrome                   11 hrs 10 mins      ██████████░░░░░░░░░░░░░░░   41.18 % 
+Zsh                      5 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+GoLand                   3 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Cursor                   2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Goland                   1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
 
 💻 Operating System: 
-Mac                      28 hrs 54 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 32 mins (36.46%)
+⏱ AI Coding Time: 11 hrs 48 mins (43.51%)
 
-✍️ 4,139 lines written by AI, 10,600 lines written by hand (28.08% AI-written)
+✍️ 4,259 lines written by AI, 151 lines written by hand (96.58% AI-written)
 
-🔤 4,588,473 Input Tokens, 563,906 Output Tokens
+🔤 6,009,898 Input Tokens, 591,858 Output Tokens
 
-💵 $64.16 Estimated AI Cost This Week
+💵 $73.03 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 127 AI Prompts
+🧠 38 AI Sessions, 140 AI Prompts
 
-Opus                     3,388 lines         ████████████████████░░░░░   79.36 % 
-Grok                     611 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-GPT                      270 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Opus                     3,388 lines         ███████████████████░░░░░░   77.19 % 
+Grok                     731 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+GPT                      270 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
 Dots                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 28.08% of written lines came from AI
-📄 Detailed Prompter — average 777 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 83.09% of changed lines were hand-edited
+🤖 AI-Driven — 96.58% of written lines came from AI
+📄 Detailed Prompter — average 703 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 70.53% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -99,7 +99,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 16:04:38 UTC
+ Last Updated on 26/10/2026 16:08:53 UTC
 <!--END_SECTION:waka-->
 
 <hr>
